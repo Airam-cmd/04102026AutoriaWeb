@@ -1,0 +1,20 @@
+
+        body { background-color: #fce4ec;
+             color: #000;
+             font-family: sans-serif;
+              text-align: center; 
+              padding: 20px; }
+        
+        
+        .caixa { border: 3px solid #000;
+             background-color: #ffcc00;
+              padding: 20px;
+               margin-bottom: 10px; }
+        
+       
+        .linha { display: flex; }
+        .coluna { width: 50%;
+             height: auto; }
+        .coluna2 { margin-left: 10px;
+             background-color: #00e5ff;
+              height: auto; }

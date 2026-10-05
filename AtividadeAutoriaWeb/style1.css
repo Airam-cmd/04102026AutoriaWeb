@@ -1,0 +1,22 @@
+ body { background-color: #2b0f3b;
+             color: #ffd700; 
+             font-family: sans-serif;
+              text-align: center;
+               padding: 20px; }
+        
+        
+        .caixa { border: 3px solid
+             #ffd700; background-color:
+              #4a2066; padding: 20px; 
+              margin-bottom: 10px; }
+        
+        
+        .linha { display: flex; }
+        .lateral { width: 30%; 
+            height: 200px; }
+        .conteudo { width: 70%; 
+            margin-left: 10px; }
+        
+        
+        .bloco { height: auto; }
+        .bloco2 { margin-top: 10px; }
